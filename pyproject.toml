@@ -1,0 +1,7 @@
+[project]
+name = "zafer multibranch assigement"
+version = "1.0.0"
+description = "Assignment demo: Python CI with multi-branch deploy (zafer baig)"
+authors = [{ name = "Zafer" }]
+readme = "README.md"
+requires-python = ">=3.8"
